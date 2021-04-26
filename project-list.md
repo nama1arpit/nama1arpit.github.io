@@ -14,3 +14,9 @@
 - [ ] COMP2022 - Ass3 - DFA to NFA etc.
 - [ ] QBUS3830 - Group project - MCMC and VB
 - [ ] SOFT2412 - LiteSnacks project (P2) + emphasis on the documentation and agile practices
+- [ ] INFO2222 - the website design and python
+
+
+- [ ] Neon-Runner
+- [ ] My contribution in the first research paper
+- [ ] My current work in 3D research
