@@ -1,12 +1,12 @@
 navbar_entries:
   - title: home
-    url: 
+    url: /
 
   - title: about
-    url: about
+    url: /about
 
   - title: blog
-    url: blog
+    url: /blog
 
 project_entries:
   - title: Neon-Runner
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: home
+    url: /
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/arpitnama/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/nama1arpit
 
   - title: feed
     url: feed.xml
